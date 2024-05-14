@@ -1,0 +1,8 @@
+.logo {
+    height: 64px; /* Ajusta la altura según el tamaño de tu logo */
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px; /* Añade un margen para separar el logo del top y los lados del Sider */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
